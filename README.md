@@ -4,6 +4,8 @@
 
 ## Linux
 
+![image](https://github.com/richlander/dotnet-publish-size-comparisons/assets/2608468/6c3d19b0-8f4e-436b-a763-a7935d4958c3)
+
 The following `dotnet publish` commands were run on Linux and measured with with `du -h -d 1`.
 
 | Template | Flavor | Size (MB) | Notes   | Command |
